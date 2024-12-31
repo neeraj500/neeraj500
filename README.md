@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🪷 A bit about me: 
+#### 🪷 A bit about me: 
 
  I am a Software Engineer who likes to build things out of ***curiosity**.*
 
