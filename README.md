@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
  I am a Software Engineer who likes to build things out of ***curiosity**.*
 
-- 🌱 I’m currently expanding my knowledge about LLMs, RAG systems.
 - 📫 Feel free to reach me here: neerajmadake18@gmail.com
 
 
